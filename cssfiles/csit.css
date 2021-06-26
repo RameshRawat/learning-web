@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(206, 228, 231);
+}
+.csitt{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.subjectname{
+    display:flex;
+    justify-content: center;
+    margin: 30px;
+    font-size: 34px;
+}
+.firstsem{
+    border: 5px solid rgb(18, 19, 17);
+    height: 860px;
+    width: 400px;
+    
+}
+.fourinline{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 70px;
+}
+.fourinline2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 70px;
+}
+.ulclass{
+    margin: 10px;
+    
+}
+
+
+
+.iit{
+/* border: 1px solid red; */
+margin: 10px;
+
+/* background-color: rgb(253, 242, 242); */
+border-radius: 10px;
+}
+/* .iit a{
+    /* text-decoration: none; 
+} 
+ .iit:hover{
+    background: pink;
+} */

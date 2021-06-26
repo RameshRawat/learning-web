@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+.topnav{
+    height: -webkit-fill-available;
+    width: auto;
+    border: 5px solid black;
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    /* justify-content: center; */
+}
+.main-content{
+    border: 2px solid red;
+    height: auto;
+    width: auto;
+    
+    /* display: flex; */
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+}
+.syllabus1{
+    border: 2px solid white;
+    height: 550px;
+    width: auto;
+    font-size: 24px;
+    font-family: cursive;
+    margin: 10px;
+    
+}
